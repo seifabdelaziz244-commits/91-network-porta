@@ -1,0 +1,7 @@
+{
+  "name": "91` Network - Client Portal",
+  "description": "Luxury creative agency portal with Agency Admin & Client sign-in, multi-client content management, real-time updates, AI brief-to-email routing, and EGP currency ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
